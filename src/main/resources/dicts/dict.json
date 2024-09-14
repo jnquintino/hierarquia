@@ -1,0 +1,41 @@
+{
+  "Animais": {
+    "Mamíferos": {
+      "Felinos": ["Onça-pintada", "Suçuarana (Puma)", "Gato-do-mato"],
+      "Canídeos": ["Lobo-guará", "Raposa-do-campo"],
+      "Primatas": ["Mico-leão-dourado", "Bugio", "Macaco-prego", "Saguí", "Muriqui"],
+      "Marsupiais": ["Gambá"],
+      "Roedores": ["Capivara", "Paca", "Cutia", "Preá"],
+      "Xenartras": ["Tamanduá-bandeira", "Tamanduá-mirim", "Preguiça-de-três-dedos"],
+      "Cervídeos": ["Veado-catingueiro", "Veado-mateiro"],
+      "Outros": ["Anta", "Tatu-bola", "Tatu-canastra", "Jararaca", "Morcego-frugívoro", "Boto-cor-de-rosa"]
+    },
+    "Aves": {
+      "Rapinas": ["Gavião-carrapateiro", "Carcará", "Falcão-peregrino", "Águia-cinzenta"],
+      "Pássaros": ["Sabiá-laranjeira", "Bem-te-vi", "Beija-flor", "Canário-da-terra", "Tico-tico", "Coleirinho", "João-de-barro"],
+      "Psitacídeos": ["Arara-azul", "Arara-vermelha", "Papagaio-verdadeiro", "Periquito-verde", "Papagaio"],
+      "Outras Aves": ["Tucano", "Jacu", "Inhambu", "Tinamús", "Urubu-rei", "Garça-branca-grande", "Tuiuiú", "Irerê", "Saracura", "Mutum", "Ema"]
+    },
+    "Répteis": {
+      "Crocodilianos": ["Jacaré-do-papo-amarelo", "Jacaré-açu"],
+      "Serpentes": ["Sucuri-verde", "Cascavel", "Jiboia", "Coral-verdadeira", "Surucucu", "Jaracuçu"],
+      "Lagartos": ["Teiú", "Iguana-verde", "Lagartixa"]
+    },
+    "Anfíbios": {
+      "Sapos": ["Sapo-cururu", "Sapo-boi"],
+      "Rãs": ["Rã-touro", "Rã-de-cachoeira"],
+      "Pererecas": ["Perereca-verde", "Perereca-de-vidro"]
+    },
+    "Peixes": {
+      "Peixes de Água Doce": ["Pirarucu", "Tambaqui", "Pacu", "Dourado", "Pintado", "Jaraqui", "Tucunaré", "Traíra", "Curimbatá"],
+      "Peixes de Água Salgada": ["Garoupa", "Pargo", "Robalo", "Badejo", "Sardinha", "Atum", "Bicuda", "Cação"]
+    },
+    "Insetos": {
+      "Borboletas": ["Borboleta-monarca", "Borboleta-da-praia"],
+      "Besouros": ["Besouro-rinoceronte", "Besouro-hércules"],
+      "Formigas": ["Formiga-cortadeira", "Formiga-tapeba"],
+      "Abelhas": ["Abelha-uruçu", "Abelha-mandaçaia", "Abelha-africana"],
+      "Outros Insetos": ["Barata-de-madagascar", "Cigarra", "Mariposa-atlas", "Vaga-lume"]
+    }
+  }
+}
